@@ -6,7 +6,7 @@
 
 <br />
 
-Backend / DevOps / Self-hosting
+Backend / DevOps
 
 <br />
 
@@ -22,7 +22,7 @@ Backend / DevOps / Self-hosting
 
 I build backend services, deployment pipelines, and self-hosted systems.
 
-Mostly working with Java, Kotlin, Python, Spring Boot, Linux, Docker, CI/CD, Nginx, PostgreSQL.
+Mostly working with Java, Kotlin, Python, Linux, Docker, CI/CD.
 
 I care about systems that are simple enough to understand, stable enough to run, and flexible enough to be rebuilt.
 
